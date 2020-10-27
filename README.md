@@ -1,3 +1,3 @@
 # Infinity-scroll
- https://lidiabaciu.github.io/Infinity-scroll/
+ hhttps://github.com/G1ESCU/Infinity-Scroll/
 https://loading.io/
